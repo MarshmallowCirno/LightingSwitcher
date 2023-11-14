@@ -5,7 +5,7 @@ Blender add-on to quickly change Viewport Lighting.
 ### Links
 Gumroad 
 
-https://app.gumroad.com/products/trkzz/
+https://gumroad.com/l/trkzz
 
 BlenderArtist
 
